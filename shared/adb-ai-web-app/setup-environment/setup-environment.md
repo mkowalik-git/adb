@@ -64,7 +64,7 @@ If you are using an Oracle LiveLabs-provided sandbox, you don't have privileges 
 
 Use an OCI Cloud Stack to set up your workshop environment. This step will create an ADB instance, load the moviestreaming data, and set up different application components as described in the Introduction.
 
-1. Deploy the required cloud resources for this workshop using the OCI Resource Manager. Click the button below: 
+1. Deploy the required cloud resources for this workshop using the OCI Resource Manager. Click the button below:
 
     <a href="https://cloud.oracle.com/resourcemanager/stacks/create?region=home&zipUrl=https://github.com/oracle-devrel/terraform-oci-oracle-cloud-foundation/releases/download/v1.0.0/Deploy-ChatDB-Autonomous-Database-oci-genai-demonstration-RM.zip&zipUrlVariables={%22tag%22:%22gen-ai%22,%22db_compute_count%22:2,%22db_name%22:%22MovieStreamWorkshop%22}" class="tryit-button">Deploy workshop</a>
 
